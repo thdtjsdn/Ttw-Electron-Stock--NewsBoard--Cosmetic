@@ -135,6 +135,25 @@
 			</div>
 		</div>
 
+		<!-- 2 -->
+		<div class="ui segment">
+			<h3 class="ui header">
+				<span id="id-cards4-header">코스메틱 - 날짜1</span>
+				<button id="btn-save-cards4" class="ui tiny button">저장</button>
+			</h3>
+			<div id="id-cards3" class="ui link cards">
+				<!--
+				<div class="card" style="width: 180px; cursor: pointer; margin: 2px;" data-path="{{path}}">
+					<div class="content" style="pointer-events: none; padding: 10px;">
+						<div class="header" style="font-size: 12px !important;"><a href="{{url}}" target="_blank">{{nm}}</a></div>
+						<div class="meta">{{dt}}</div>
+						<div class="description">{{tit}}</div>
+					</div>
+				</div>
+				-->
+			</div>
+		</div>
+
 	</div>
 
 </div>
